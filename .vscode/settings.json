@@ -1,0 +1,13 @@
+{
+    "java.completion.importOrder": ["org.lwjgl", "java", "javax"],
+    "java.completion.favoriteStaticMembers": [
+      "org.lwjgl.opengl.GL11::*",
+      "org.lwjgl.glfw.GLFW::*",
+      "org.lwjgl.system.MemoryUtil::*"
+    ],
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    }
+  }

@@ -1,0 +1,6 @@
+{
+    "org.lwjgl": {
+      "importOrder": 1,
+      "staticImportPriority": 1
+    }
+}
